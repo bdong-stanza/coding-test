@@ -1,0 +1,22 @@
+{
+  "name": "coding-test",
+  "version": "1.0.0",
+  "description": "Congratulations, you have been asked to complete our Full Stack candidate proficiency test!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdong-stanza/coding-test.git"
+  },
+  "author": "anzhe dong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdong-stanza/coding-test/issues"
+  },
+  "homepage": "https://github.com/bdong-stanza/coding-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
